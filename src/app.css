@@ -1,0 +1,15 @@
+body{
+    margin: 1px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app{
+    border: 2px solid black;
+    padding-left: 10px;
+}
+
+.line{
+    /* font-weight: 100px; */
+    height: 5px;
+    background-color: black;
+}
